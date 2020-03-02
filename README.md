@@ -1,4 +1,4 @@
 # amplicorius
 AmpliCoriuS - Amplicon Core Scripts
 
-:book: [Documentation wiki](wiki)
+:book: [Documentation wiki](https://github.com/telatin/amplicorius/wiki)
